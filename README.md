@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Governance Portfolio Walkthrough
 
 A comprehensive guide to AI governance implementation using three major frameworks: **NIST AI RMF**, **ISO/IEC 42001**, and **EU AI Act**. This portfolio includes real-world scenario examples showing how to apply governance across different industries and use cases.
@@ -294,3 +295,6 @@ For questions about this governance portfolio:
 
 **Last Updated**: September 2026  
 **Framework Versions**: NIST AI RMF 1.0 | ISO/IEC 42001:2023 | EU AI Act (2024/1689)
+=======
+# aigovernance
+>>>>>>> 14de4b36171868b6db48e8d344a7cfaf899ac544
