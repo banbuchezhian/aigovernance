@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Governance Portfolio Walkthrough
 
 A comprehensive guide to AI governance implementation using three major frameworks: **NIST AI RMF**, **ISO/IEC 42001**, and **EU AI Act**. This portfolio includes real-world scenario examples showing how to apply governance across different industries and use cases.
