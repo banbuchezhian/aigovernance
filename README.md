@@ -306,8 +306,7 @@ For questions about this governance portfolio:
 
 ---
 
-**Last Updated**: September 2026  
-**Framework Versions**: NIST AI RMF 1.0 | ISO/IEC 42001:2023 | EU AI Act (2024/1689)
+*Last Updated**: September 2026  
+*Framework Versions**: NIST AI RMF 1.0 | ISO/IEC 42001:2023 | EU AI Act (2024/1689)
 =======
-# aigovernance
->>>>>>> 14de4b36171868b6db48e8d344a7cfaf899ac544
+
