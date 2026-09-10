@@ -251,19 +251,33 @@ Ongoing tracking of AI system performance and risk metrics.
 
 This portfolio is maintained in GitHub with the following structure:
 ```
-/aigovernance
-├── README.md (this file)
-├── framework-mapping-guide.md
-├── scenario-medsecure-health.md
-├── scenario-1-finanalytics.md
-├── scenario-2-retailai.md
-└── artifacts/
-    ├── templates/
-    │   ├── governance-policy-template.md
-    │   ├── risk-assessment-template.md
-    │   └── model-card-template.md
-    └── examples/
-        └── [industry-specific examples]
+/aigovernance/
+├── README.md
+├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE
+│
+├── docs/
+│   ├── framework-mapping-guide.md
+│   └── governance-checklist.md
+│
+├── scenarios/
+│   ├── scenario-medsecure-health.md
+│   ├── scenario-1-finanalytics.md
+│   └── scenario-2-retailai.md
+│
+├── templates/
+│   └── model-card-template.md
+│
+├── examples/
+│   ├── healthcare/
+│   ├── financial/
+│   └── ecommerce/
+│
+├── resources/
+├── tools/
+└── .github/
+    └── ISSUE_TEMPLATE/
 ```
 
 ---
