@@ -280,7 +280,7 @@ To suggest improvements or add scenarios:
 
 ## 📄 License
 
-[Specify your license - e.g., MIT, CC-BY-4.0, etc.]
+Creative Commons 4.0
 
 ---
 
